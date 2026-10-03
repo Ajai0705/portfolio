@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "B. Ajai Hariharan | AI & Software Developer",
+  title: "S.JEEVASHREE | AI & Software Developer",
   description: "Portfolio of B. Ajai Hariharan, a Computer Science and Engineering student focused on AI, machine learning and software development.",
   openGraph: {
     title: "B. Ajai Hariharan | AI & Software Developer",
